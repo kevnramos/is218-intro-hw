@@ -3,4 +3,4 @@
 ### Intro HW - Website hosted on Github pages
 
 
-[Website hosted on github](https://kevnramos.github.io/)
+[Website hosted on github](https://kevnramos.github.io/is218-intro-hw/)
